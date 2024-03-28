@@ -26,10 +26,10 @@ ___
 
 ___
 
-- [Ana Luíza Monteiro](https://github.com/luiza-monteiro)
+- [Ana Luíza Monteiro](https://github.com/luizamtro)
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
-        <img height="300m" src="https://avatars.githubusercontent.com/u/135999081?v=4"/>
+        <img height="300m" src="https://avatars.githubusercontent.com/u/159566275?v=4"/>
     </div>
 </div>
 
