@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
+
+		/* Questão QR25: Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo.
+		Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que,
+		pelo menos, o custo do espetáculo seja alcançado.*/
 		Scanner sc= new Scanner(System.in);
 		
 		System.out.print("Qual será o custo do espetáculo teatral?: ");
