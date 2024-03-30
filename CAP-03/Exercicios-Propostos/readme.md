@@ -1,4 +1,6 @@
 # Questões propostas
+### *# AVISO PARA PROFESSOR ROGER #*
+` Não conseguimos fazer os arquivos .jar do jeito que o senhor pediu, os criamos mas sem serem executados direto no terminal. Logo, para não se dar o trabalho de ir até o terminal executar e funcionar como um programa, usamos o JOptionPane. Esperamos que compreenda! `
 
 > **Questão proposta 1**: Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo
 segundo.
