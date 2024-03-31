@@ -45,6 +45,8 @@ ___
 ### Trabalho 01: TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente).
 * Capítulo 3: Estrutura Sequencial
 
+### *#AVISO IMPORTANTE NO README DOS EXERCÍCIOS PROPOSTOS!*
+
 
 
 
