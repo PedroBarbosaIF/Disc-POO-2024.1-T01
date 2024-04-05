@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  2° Trabalho da N1 de POO
+  1° Trabalho da N1 de POO
 </h2>
 
 ### Feito por:
@@ -42,6 +42,8 @@ ___
     </div>
 
 ## Trabalhos
-### Trabalho 02: TODOS os Exercícios Resolvidos  e 10 (5-5) Exercícios Propostos (sorteados aleatoriamente).
-* Cap. 04 (Estrutura Condicional) 
-* Cap. 05 (Estrutura de Repetição)
+### Trabalho 01: TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente).
+* Capítulo 3: Estrutura Sequencial
+
+### *#AVISO IMPORTANTE NO README DOS EXERCÍCIOS PROPOSTOS!*
+
